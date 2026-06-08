@@ -21,4 +21,8 @@ Este projeto foi construído sem o uso de frameworks, garantindo máxima perform
 * **CSS3:** Animações CSS, Flexbox, Grid Layout e Media Queries.
 * **JavaScript (Vanilla):** Manipulação do DOM para o acordeão do FAQ e controle de eventos de rolagem para animações de visibilidade.
 
+## Deploy
+
+[Clique](https://ebookachadinhos.netlify.app/)
+
 Desenvolvido por @anacerqueira.dev
